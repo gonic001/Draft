@@ -13,5 +13,5 @@
 ## 완료된 과업
 ...
 
-###깃헙 내 문서 작성법
+##(+)깃헙 내 문서 작성법
  * https://guides.github.com/features/mastering-markdown/
